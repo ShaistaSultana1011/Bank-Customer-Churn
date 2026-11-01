@@ -54,7 +54,6 @@ Analyze banking customer data to evaluate customer churn, identify high-risk cus
 
 ## Business Recommendations
 
-- Business Recommendations
 - Focus on retaining customers in high-churn age groups.
 - Introduce personalized offers and loyalty programs.
 - Improve engagement with inactive customers.
